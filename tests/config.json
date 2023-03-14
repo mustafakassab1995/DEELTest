@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "headless_mode": false,
+  "tested_page": "https://www-dev-6kl0qk91wr.giger.training/login",
+  "timeout": 10
+}
